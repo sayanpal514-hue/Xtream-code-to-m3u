@@ -2,7 +2,7 @@
 python main.py -s Server/Host name  -u username -p password -o output file name 
 
 # Example 
-python main.py -s http://unitv20.com -u megamarciano01 -p NXae13 -o playlsit.m3u
+python main.py -s http://unitv20.com -u megamarciano01 -p NXae13 -o playlist.m3u
 
 # complete Python toolkit for Xtream Codes IPTV servers:
 - **Extract** M3U playlists (live TV, VOD, series)
